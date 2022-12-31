@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=P7-2
+Removed Pin From Net: NetName=GND Pin=P9-2
+Removed Pin From Net: NetName=12V Pin=P22-1
+Removed Pin From Net: NetName=GND Pin=P22-2
+Removed Pin From Net: NetName=5V Pin=P23-1
+Removed Pin From Net: NetName=GND Pin=P23-2
+Removed Pin From Net: NetName=12V Pin=U8-1
+Removed Pin From Net: NetName=GND Pin=U8-2
+Removed Pin From Net: NetName=12V Pin=U9-1
+Removed Pin From Net: NetName=GND Pin=U9-3
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=GND Pin=P9-1
+Added Pin To Net: NetName=GND Pin=P22-1
+Added Pin To Net: NetName=12V Pin=P22-2
+Added Pin To Net: NetName=GND Pin=P23-1
+Added Pin To Net: NetName=5V Pin=P23-2
+Added Pin To Net: NetName=GND Pin=U8-1
+Added Pin To Net: NetName=12V Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=12V Pin=U9-3
+Added Pin To Net: NetName=NetP7_2 Pin=P7-2
+Added Pin To Net: NetName=NetP7_2 Pin=U4-4
+Added Net: Name=NetP7_2
+Added Pin To Net: NetName=NetP9_2 Pin=P9-2
+Added Pin To Net: NetName=NetP9_2 Pin=U5-4
+Added Net: Name=NetP9_2

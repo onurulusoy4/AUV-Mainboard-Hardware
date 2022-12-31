@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=P9 Old Footprint=51025-02-0100-01 New Footprint=2132230-3
+Change Component Footprint: Designator=P11 Old Footprint=51025-02-0100-01 New Footprint=2132230-3
+Change Component Footprint: Designator=P13 Old Footprint=51025-02-0100-01 New Footprint=2132230-3
+Change Component Footprint: Designator=P10 Old Footprint=2132230-3 New Footprint=51025-02-0100-01
+Change Component Footprint: Designator=P12 Old Footprint=2132230-3 New Footprint=51025-02-0100-01
+Change Component Footprint: Designator=P14 Old Footprint=2132230-3 New Footprint=51025-02-0100-01
+Change Component Comment : Designator=P9 Old Comment=*CONN HEADER VERT 2POS 2.5MM New Comment=CONN HEADER VERT 3POS 2.5MM
+Change Component Comment : Designator=P11 Old Comment=*CONN HEADER VERT 2POS 2.5MM New Comment=CONN HEADER VERT 3POS 2.5MM
+Change Component Comment : Designator=P13 Old Comment=*CONN HEADER VERT 2POS 2.5MM New Comment=CONN HEADER VERT 3POS 2.5MM
+Change Component Comment : Designator=P10 Old Comment=CONN HEADER VERT 3POS 2.5MM New Comment=*CONN HEADER VERT 2POS 2.5MM
+Change Component Comment : Designator=P12 Old Comment=CONN HEADER VERT 3POS 2.5MM New Comment=*CONN HEADER VERT 2POS 2.5MM
+Change Component Comment : Designator=P14 Old Comment=CONN HEADER VERT 3POS 2.5MM New Comment=*CONN HEADER VERT 2POS 2.5MM
+Added Pin To Net: NetName=12V Pin=P9-3
+Added Pin To Net: NetName=12V Pin=P11-3
+Added Pin To Net: NetName=12V Pin=P13-3
+Added Member To Class: ClassName=U_HSS Member=Component P9 CONN HEADER VERT 3POS 2.5MM

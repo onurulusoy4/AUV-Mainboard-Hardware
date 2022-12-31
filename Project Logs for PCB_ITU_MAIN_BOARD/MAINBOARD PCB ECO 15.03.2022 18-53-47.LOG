@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=+3V3 Pin=IC2-3
+Removed Pin From Net: NetName=+3V3 Pin=IC2-45
+Removed Pin From Net: NetName=+3V3 Pin=IC2-46
+Removed Member From Class: ClassName=U_RS232 Member=P?
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C11 NewDesignator=C5
+Change Component Designator: OldDesignator=C12 NewDesignator=C6
+Change Component Designator: OldDesignator=C13 NewDesignator=C7
+Change Component Designator: OldDesignator=C14 NewDesignator=C8
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P3 NewDesignator=P5
+Change Component Designator: OldDesignator=P4 NewDesignator=P8
+Change Component Designator: OldDesignator=P5 NewDesignator=P9
+Change Component Designator: OldDesignator=P6 NewDesignator=P10
+Change Component Designator: OldDesignator=P7 NewDesignator=P11
+Change Component Designator: OldDesignator=P8 NewDesignator=P12
+Change Component Designator: OldDesignator=P9 NewDesignator=P13
+Change Component Designator: OldDesignator=P10 NewDesignator=P14
+Change Component Designator: OldDesignator=P11 NewDesignator=P15
+Change Component Designator: OldDesignator=P12 NewDesignator=P16
+Change Component Designator: OldDesignator=P13 NewDesignator=P17
+Change Component Designator: OldDesignator=P14 NewDesignator=P18
+Change Component Designator: OldDesignator=P15 NewDesignator=P19
+Change Component Designator: OldDesignator=P16 NewDesignator=P20
+Change Component Designator: OldDesignator=P17 NewDesignator=P21
+Change Component Designator: OldDesignator=P18 NewDesignator=P22
+Change Component Designator: OldDesignator=P19 NewDesignator=P23
+Change Component Designator: OldDesignator=P20 NewDesignator=P24
+Change Component Designator: OldDesignator=P21 NewDesignator=P25
+Change Component Designator: OldDesignator=P22 NewDesignator=P26
+Change Component Designator: OldDesignator=P23 NewDesignator=P27
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Change Component Designator: OldDesignator=P? NewDesignator=P3
+Change Component Designator: OldDesignator=P? NewDesignator=P4
+Change Component Designator: OldDesignator=P? NewDesignator=P6
+Change Component Designator: OldDesignator=P? NewDesignator=P7
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Change Component Designator: OldDesignator=R8 NewDesignator=R4
+Change Component Designator: OldDesignator=R9 NewDesignator=R5
+Change Component Designator: OldDesignator=R10 NewDesignator=R6
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=R13 NewDesignator=R7
+Change Component Designator: OldDesignator=R14 NewDesignator=R8
+Change Component Designator: OldDesignator=R25 NewDesignator=R11
+Change Component Designator: OldDesignator=R26 NewDesignator=R12
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Change Component Designator: OldDesignator=U8 NewDesignator=U6
+Change Component Designator: OldDesignator=U9 NewDesignator=U7
+Added Component: Designator=C11(CAP ALSMD 4.3MM H5.4MM)
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance"; Value = "4.7 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink1url"; Value = "//media.digikey.com/pdf/Data%20Sheets/United%20Chemi-Con%20PDFs/MVE%20Series.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "componentlink2url"; Value = "https://www.digikey.com/en/products/detail/united-chemi-con/EMVE350ADA4R7MD55G/756875"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.205" (5.20mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "lastupdated"; Value = "15.03.2022 03:52:48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime @ Temp."; Value = "1000 Hrs @ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "manufacturer"; Value = "United Chemi-Con"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EMVE350ADA4R7MD55G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "partid"; Value = "7039"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Polarization"; Value = "Polar"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "price"; Value = "0.09"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current @ Low Frequency"; Value = "16 mA @ 120 Hz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "series"; Value = "Alchip™- MVE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.157" Dia (4.00mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "565-2229-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Surface Mount Land Size"; Value = "0.169" L x 0.169" W (4.30mm x 4.30mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "value"; Value = "4.7 µF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Rated"; Value = "35 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=C11-1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC3_2
+Change Net Name : Old Net Name=NetC3_1 New Net Name=NetC2_1
+Change Net Name : Old Net Name=NetC11_2 New Net Name=NetC5_2
+Change Net Name : Old Net Name=NetC12_1 New Net Name=NetC6_1
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC7_1
+Change Net Name : Old Net Name=NetC13_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC14_1 New Net Name=NetC8_1
+Change Net Name : Old Net Name=NetC14_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetP1_4 New Net Name=NetP2_4
+Change Net Name : Old Net Name=NetP3_2 New Net Name=NetP5_2
+Change Net Name : Old Net Name=NetP3_3 New Net Name=NetP5_3
+Change Net Name : Old Net Name=NetP4_2 New Net Name=NetP7_2
+Change Net Name : Old Net Name=NetP4_3 New Net Name=NetP7_4
+Change Net Name : Old Net Name=NetP5_2 New Net Name=NetP9_2
+Change Net Name : Old Net Name=NetP6_2 New Net Name=NetP10_2
+Change Net Name : Old Net Name=NetP7_2 New Net Name=NetP11_2
+Change Net Name : Old Net Name=NetP8_2 New Net Name=NetP12_2
+Change Net Name : Old Net Name=NetP9_2 New Net Name=NetP13_2
+Change Net Name : Old Net Name=NetP10_2 New Net Name=NetP14_2
+Change Net Name : Old Net Name=NetP16_2 New Net Name=NetP20_2
+Change Net Name : Old Net Name=NetP16_3 New Net Name=NetP20_3
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP4_2
+Change Net Name : Old Net Name=NetP?_3 New Net Name=NetP4_4
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR5_1
+Change Net Name : Old Net Name=NetR25_1 New Net Name=NetR11_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=IC2-3
+Added Pin To Net: NetName=NetC11_2 Pin=IC2-45
+Added Pin To Net: NetName=NetC11_2 Pin=IC2-46
+Added Net: Name=NetC11_2
+Added Member To Class: ClassName=STMH7 Member=Component C11 4.7 µF
+Added Member To Class: ClassName=U_RS232 Member=Component P2 WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Added Member To Class: ClassName=U_RS232 Member=Component P5 WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Added Member To Class: ClassName=U_RS232 Member=Component P6 WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Added Member To Class: ClassName=U_RS232 Member=Component P7 Header 2X2
+Added Member To Class: ClassName=U_RS232 Member=Component P8 WIRE-TO BOARD HEADER, 2.5MM, 4 C

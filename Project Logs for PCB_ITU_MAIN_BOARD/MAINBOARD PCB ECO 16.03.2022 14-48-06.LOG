@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=U_POWER Member=P?
+Change Component Designator: OldDesignator=C11 NewDesignator=C9
+Change Component Designator: OldDesignator=IC2 NewDesignator=IC1
+Change Component Designator: OldDesignator=P26 NewDesignator=P25
+Change Component Designator: OldDesignator=P27 NewDesignator=P26
+Change Component Designator: OldDesignator=P? NewDesignator=P24
+Change Component Designator: OldDesignator=P? NewDesignator=P27
+Change Component Designator: OldDesignator=P? NewDesignator=P28
+Change Net Name : Old Net Name=NetP?_2 New Net Name=NetP24_2
+Added Member To Class: ClassName=U_POWER Member=Component P27 *CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=U_POWER Member=Component P28 *CONN HEADER VERT 2POS 2.5MM

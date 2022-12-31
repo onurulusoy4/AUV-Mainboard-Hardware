@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=LED3+ Pin=IC1-62
+Removed Pin From Net: NetName=LED2+ Pin=IC1-64
+Added Pin To Net: NetName=LED2+ Pin=IC1-62
+Added Pin To Net: NetName=LED3+ Pin=IC1-64
+Added Member To Class: ClassName=STMH7 Member=Component R17 x Ohms

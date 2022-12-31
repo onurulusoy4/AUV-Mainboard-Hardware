@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=P9 NewDesignator=P10
+Change Component Designator: OldDesignator=P10 NewDesignator=P9
+Change Component Designator: OldDesignator=P11 NewDesignator=P12
+Change Component Designator: OldDesignator=P12 NewDesignator=P11
+Change Component Designator: OldDesignator=P13 NewDesignator=P14
+Change Component Designator: OldDesignator=P14 NewDesignator=P13
+Change Net Name : Old Net Name=NetP10_2 New Net Name=NetP9_2
+Change Net Name : Old Net Name=NetP12_2 New Net Name=NetP11_2
+Change Net Name : Old Net Name=NetP14_2 New Net Name=NetP13_2

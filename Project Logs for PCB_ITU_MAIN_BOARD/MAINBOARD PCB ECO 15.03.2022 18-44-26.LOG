@@ -1,0 +1,424 @@
+Removed Pin From Net: NetName=5V Pin=C1-1
+Removed Pin From Net: NetName=5V Pin=C5-1
+Removed Pin From Net: NetName=GND Pin=C7-2
+Removed Pin From Net: NetName=+3V3 Pin=IC2-89
+Removed Pin From Net: NetName=5V Pin=P1-4
+Removed Pin From Net: NetName=GND Pin=P2-1
+Removed Pin From Net: NetName=UART4_RX Pin=P2-2
+Removed Pin From Net: NetName=UART4_TX Pin=P2-3
+Removed Pin From Net: NetName=5V Pin=P3-4
+Removed Pin From Net: NetName=UART7_RX Pin=P4-2
+Removed Pin From Net: NetName=UART7_TX Pin=P4-3
+Removed Pin From Net: NetName=+3V3 Pin=R1-2
+Removed Pin From Net: NetName=5V Pin=R2-2
+Removed Pin From Net: NetName=5V Pin=R3-2
+Removed Pin From Net: NetName=+3V3 Pin=R4-2
+Removed Pin From Net: NetName=UART5_TX Pin=R15-1
+Removed Pin From Net: NetName=5V Pin=R15-2
+Removed Pin From Net: NetName=GPIO Pin=R16-1
+Removed Pin From Net: NetName=5V Pin=R16-2
+Removed Pin From Net: NetName=GPIO Pin=R17-1
+Removed Pin From Net: NetName=5V Pin=R17-2
+Removed Pin From Net: NetName=UART5_RX Pin=R18-1
+Removed Pin From Net: NetName=5V Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R19-2
+Removed Pin From Net: NetName=5V Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=R22-2
+Removed Pin From Net: NetName=UART6_TX Pin=R23-1
+Removed Pin From Net: NetName=5V Pin=R23-2
+Removed Pin From Net: NetName=UART6_RX Pin=R24-1
+Removed Pin From Net: NetName=5V Pin=R24-2
+Removed Pin From Net: NetName=NetC1_2 Pin=U1-2
+Removed Pin From Net: NetName=UART4_TX Pin=U2-11
+Removed Pin From Net: NetName=UART4_RX Pin=U2-12
+Removed Pin From Net: NetName=GND Pin=U2-15
+Removed Pin From Net: NetName=5V Pin=U2-16
+Removed Pin From Net: NetName=UART5_TX Pin=U6-1
+Removed Pin From Net: NetName=GPIO Pin=U6-2
+Removed Pin From Net: NetName=GPIO Pin=U6-3
+Removed Pin From Net: NetName=UART5_RX Pin=U6-4
+Removed Pin From Net: NetName=GND Pin=U6-5
+Removed Pin From Net: NetName=5V Pin=U6-8
+Removed Pin From Net: NetName=5V Pin=U7-1
+Removed Pin From Net: NetName=UART6_TX Pin=U7-2
+Removed Pin From Net: NetName=UART6_RX Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U7-4
+Removed Pin From Net: NetName=NetP16_2 Pin=U7-6
+Removed Pin From Net: NetName=NetP16_3 Pin=U7-8
+Removed Member From Class: ClassName=U_RS232 Member=C5
+Removed Member From Class: ClassName=U_RS232 Member=C6
+Removed Member From Class: ClassName=U_RS232 Member=C7
+Removed Member From Class: ClassName=U_RS232 Member=C8
+Removed Member From Class: ClassName=U_RS232 Member=P2
+Removed Member From Class: ClassName=U_RS232 Member=R1
+Removed Member From Class: ClassName=U_RS232 Member=R2
+Removed Member From Class: ClassName=U_RS232 Member=R3
+Removed Member From Class: ClassName=U_RS232 Member=R4
+Removed Member From Class: ClassName=U_RS485 Member=R15
+Removed Member From Class: ClassName=U_RS485 Member=R16
+Removed Member From Class: ClassName=U_RS485 Member=R17
+Removed Member From Class: ClassName=U_RS485 Member=R18
+Removed Member From Class: ClassName=U_RS485 Member=R19
+Removed Member From Class: ClassName=U_RS485 Member=R20
+Removed Member From Class: ClassName=U_RS485 Member=R21
+Removed Member From Class: ClassName=U_RS485 Member=R22
+Removed Member From Class: ClassName=U_RS485 Member=R23
+Removed Member From Class: ClassName=U_RS485 Member=R24
+Removed Member From Class: ClassName=U_RS232 Member=U2
+Removed Member From Class: ClassName=U_RS485 Member=U7
+Change Component Footprint: Designator=P15 Old Footprint=51025-02-0100-01 New Footprint=51125-04-0200-01
+Change Component Footprint: Designator=U6 Old Footprint=MAX485EPA New Footprint=MAX232CPE
+Change Component Comment : Designator=U6 Old Comment=MAX485EPA New Comment=MAX232CPE
+Change Component Comment : Designator=P15 Old Comment=WIRE-TO BOARD WAFER, 2.5MM, 2 CO New Comment=WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Change component parameters: Designator = "P15" ("P15"); Footprint = "51025-02-0100-01"; UniqueID = "\QYPYVDIU\ZHVZMARY" ("\QYPYVDIU\ZHVZMARY")
+Change component parameters (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "CNC Tech"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "51125-04-0200-01"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=0,21000, 10=0,17700, 100=0,13650, 500=0,11550, 1000=0,09450, 5000=0,08400, 10000=0,07613 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "5369"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "1175-51125-04-0200-01-ND"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U6" ("U6"); Footprint = "MAX485EPA"; UniqueID = "\QYPYVDIU\NYYSDHDB" ("\QYPYVDIU\NYYSDHDB")
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "PDIP"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Category"; Value = "RS-232 / RS-422 / RS-485 Interface ICs"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheet.ciiva.com/22828/0900766b807c18c1-22828294.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheet.ciiva.com/22828/0900766b807c18c1-22828294.pdf?src-supplier=RSComponents"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "https://datasheet.ciiva.com/29306/170049-da-01-en-ic-max232cpe-dip16-29306280.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://datasheet.ciiva.com/29306/170049-da-01-en-ic-max232cpe-dip16-29306280.pdf?src-supplier=Conrad"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "https://datasheet.ciiva.com/26833/max232cpe-26833420.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "https://datasheet.ciiva.com/26833/max232cpe-26833420.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4Description"; Value = "https://datasheet.ciiva.com/26833/max232cpe-26833436.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink4URL"; Value = "https://datasheet.ciiva.com/26833/max232cpe-26833436.pdf?src-supplier=IIIC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5Description"; Value = "https://datasheet.ciiva.com/18410/70157118-18410440.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink5URL"; Value = "https://datasheet.ciiva.com/18410/70157118-18410440.pdf?src-supplier=Allied+Electronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6Description"; Value = "https://datasheet.ciiva.com/3028/max220-max249-3028373.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink6URL"; Value = "https://datasheet.ciiva.com/3028/max220-max249-3028373.pdf?src-supplier=Avnet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Tin,Matte"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Data Rate"; Value = "120Kbps"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "4.45mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "19.43mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Logic Function"; Value = "Transceiver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Maxim"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "MAX232CPE+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "70°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Supply Voltage"; Value = "5.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "0°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Supply Voltage"; Value = "4.5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Drivers"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Pins"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Receivers"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Transceivers"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Transmitters"; Value = "2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Current"; Value = "10mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage"; Value = "5V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "25"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing 1"; Value = "1=4,80000, 10=3,86000, 25=3,63000, 50=3,48000, 100=3,32000, 250=3,29000, 500=3,24000 (EUR)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Propagation Delay"; Value = "10us"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "MAX232"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock 1"; Value = "9660"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supply Type"; Value = "Single"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "Integrated Circuit (IC)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "0.056438oz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "7.87mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface"; Value = "RS-232"; VariantName = "[No Variations]"
+Added Component: Designator=C11(C0805C105J3RAC7800)
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://components.arrow.com/part/dataview/46126037S66869N7429?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://components.arrow.com/part/dataview/46126037S66869N7429?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.mouser.com/ds/2/212/KEM_C1002_X7R_SMD-1102033.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.mouser.com/ds/2/212/KEM_C1002_X7R_SMD-1102033.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://components.arrow.com/part/dataview/0323_00011351?src-supplier=Arrow+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://components.arrow.com/part/dataview/0323_00011351?src-supplier=Arrow+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0805C105J3RACTU.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0805C105J3RACTU.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C105J3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "2500=0,29500 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "72500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=C12(C0805C105J3RAC7800)
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://components.arrow.com/part/dataview/46126037S66869N7429?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://components.arrow.com/part/dataview/46126037S66869N7429?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.mouser.com/ds/2/212/KEM_C1002_X7R_SMD-1102033.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.mouser.com/ds/2/212/KEM_C1002_X7R_SMD-1102033.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://components.arrow.com/part/dataview/0323_00011351?src-supplier=Arrow+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://components.arrow.com/part/dataview/0323_00011351?src-supplier=Arrow+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0805C105J3RACTU.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0805C105J3RACTU.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C105J3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "2500=0,29500 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "72500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=C13(C0805C105J3RAC7800)
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://components.arrow.com/part/dataview/46126037S66869N7429?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://components.arrow.com/part/dataview/46126037S66869N7429?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.mouser.com/ds/2/212/KEM_C1002_X7R_SMD-1102033.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.mouser.com/ds/2/212/KEM_C1002_X7R_SMD-1102033.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://components.arrow.com/part/dataview/0323_00011351?src-supplier=Arrow+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://components.arrow.com/part/dataview/0323_00011351?src-supplier=Arrow+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0805C105J3RACTU.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0805C105J3RACTU.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C105J3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "2500=0,29500 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "72500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=C14(C0805C105J3RAC7800)
+Add component (AddParameter): Name = "Capacitance"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Metric)"; Value = "2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case Code (Imperial)"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case/Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Category"; Value = "Ceramic Capacitors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "http://components.arrow.com/part/dataview/46126037S66869N7429?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://components.arrow.com/part/dataview/46126037S66869N7429?src-supplier=Arrow+Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "http://www.mouser.com/ds/2/212/KEM_C1002_X7R_SMD-1102033.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.mouser.com/ds/2/212/KEM_C1002_X7R_SMD-1102033.pdf?src-supplier=Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4Description"; Value = "http://components.arrow.com/part/dataview/0323_00011351?src-supplier=Arrow+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink4URL"; Value = "http://components.arrow.com/part/dataview/0323_00011351?src-supplier=Arrow+Europe"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5Description"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0805C105J3RACTU.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink5URL"; Value = "https://api.kemet.com/component-edge/download/datasheet/C0805C105J3RACTU.pdf?src-supplier=Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink6URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Newark"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7Description"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink7URL"; Value = "http://www.farnell.com/datasheets/2745929.pdf?src-supplier=Element14"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dielectric Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "KEMET"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "C0805C105J3RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "2500=0,29500 (EUR)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "72500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Farnell"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Thickness"; Value = "0.055inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating (DC)"; Value = "25V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.049inch"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR2X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P?(51125-04-0200-01)
+Add component (AddParameter): Name = "Category"; Value = "Connectors"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "CNC Tech"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "51125-04-0200-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0,21000, 10=0,17700, 100=0,13650, 500=0,11550, 1000=0,09450, 5000=0,08400, 10000=0,07613 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "5369"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1175-51125-04-0200-01-ND"; VariantName = "[No Variations]"
+Added Component: Designator=P?(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=5V Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-2
+Added Pin To Net: NetName=+3V3 Pin=IC2-45
+Added Pin To Net: NetName=+3V3 Pin=IC2-46
+Added Pin To Net: NetName=GND Pin=P15-1
+Added Pin To Net: NetName=5V Pin=P15-4
+Added Pin To Net: NetName=GND Pin=P16-1
+Added Pin To Net: NetName=5V Pin=P16-4
+Added Pin To Net: NetName=5V Pin=P?-1
+Added Pin To Net: NetName=5V Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Pin To Net: NetName=UART4_TX Pin=P?-1
+Added Pin To Net: NetName=UART7_TX Pin=P?-1
+Added Pin To Net: NetName=NetC1_2 Pin=P?-2
+Added Pin To Net: NetName=12V Pin=P?-3
+Added Pin To Net: NetName=12V Pin=P?-3
+Added Pin To Net: NetName=UART4_RX Pin=P?-3
+Added Pin To Net: NetName=UART7_RX Pin=P?-3
+Added Pin To Net: NetName=UART4_RX Pin=U1-9
+Added Pin To Net: NetName=UART4_TX Pin=U1-10
+Added Pin To Net: NetName=NetP16_2 Pin=U6-7
+Added Pin To Net: NetName=NetP16_3 Pin=U6-8
+Added Pin To Net: NetName=UART6_RX Pin=U6-9
+Added Pin To Net: NetName=UART6_TX Pin=U6-10
+Added Pin To Net: NetName=UART5_TX Pin=U6-11
+Added Pin To Net: NetName=UART5_RX Pin=U6-12
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Pin To Net: NetName=5V Pin=U6-16
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=U6-2
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetC12_1 Pin=C12-1
+Added Pin To Net: NetName=NetC12_1 Pin=U6-6
+Added Net: Name=NetC12_1
+Added Pin To Net: NetName=NetC13_1 Pin=C13-1
+Added Pin To Net: NetName=NetC13_1 Pin=U6-3
+Added Net: Name=NetC13_1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=NetC13_2 Pin=U6-1
+Added Net: Name=NetC13_2
+Added Pin To Net: NetName=NetC14_1 Pin=C14-1
+Added Pin To Net: NetName=NetC14_1 Pin=U6-5
+Added Net: Name=NetC14_1
+Added Pin To Net: NetName=NetC14_2 Pin=C14-2
+Added Pin To Net: NetName=NetC14_2 Pin=U6-4
+Added Net: Name=NetC14_2
+Added Pin To Net: NetName=NetP1_4 Pin=P1-4
+Added Pin To Net: NetName=NetP1_4 Pin=P3-4
+Added Pin To Net: NetName=NetP1_4 Pin=P?-2
+Added Net: Name=NetP1_4
+Added Pin To Net: NetName=NetP3_2 Pin=P3-2
+Added Pin To Net: NetName=NetP3_2 Pin=U1-7
+Added Net: Name=NetP3_2
+Added Pin To Net: NetName=NetP3_3 Pin=P3-3
+Added Pin To Net: NetName=NetP3_3 Pin=U1-8
+Added Net: Name=NetP3_3
+Added Pin To Net: NetName=NetP4_2 Pin=P4-2
+Added Pin To Net: NetName=NetP4_2 Pin=P?-2
+Added Net: Name=NetP4_2
+Added Pin To Net: NetName=NetP4_3 Pin=P4-3
+Added Pin To Net: NetName=NetP4_3 Pin=P?-4
+Added Net: Name=NetP4_3
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Pin To Net: NetName=NetP?_2 Pin=P?-2
+Added Net: Name=NetP?_2
+Added Pin To Net: NetName=NetP?_3 Pin=P?-3
+Added Pin To Net: NetName=NetP?_3 Pin=P?-4
+Added Net: Name=NetP?_3
+Added Pin To Net: NetName=RX5_RS232 Pin=P15-3
+Added Pin To Net: NetName=RX5_RS232 Pin=U6-13
+Added Net: Name=RX5_RS232
+Added Pin To Net: NetName=TX5_RS232 Pin=P15-2
+Added Pin To Net: NetName=TX5_RS232 Pin=U6-14
+Added Net: Name=TX5_RS232
+Added Member To Class: ClassName=U_RS485 Member=Component C11 CAP CER 1UF 25V X7R 0805
+Added Member To Class: ClassName=U_RS485 Member=Component C12 CAP CER 1UF 25V X7R 0805
+Added Member To Class: ClassName=U_RS485 Member=Component C13 CAP CER 1UF 25V X7R 0805
+Added Member To Class: ClassName=U_RS485 Member=Component C14 CAP CER 1UF 25V X7R 0805
+Added Member To Class: ClassName=U_RS485 Member=Component P19 WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Added Member To Class: ClassName=U_RS232 Member=Component P? Header 2X2
+Added Member To Class: ClassName=U_RS232 Member=Component P? Header 2X2
+Added Member To Class: ClassName=U_RS232 Member=Component P? RS4-7 Power Selection
+Added Member To Class: ClassName=U_RS232 Member=Component P? WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Added Member To Class: ClassName=U_RS232 Member=Component P? RS4-7 Chip Power Selection

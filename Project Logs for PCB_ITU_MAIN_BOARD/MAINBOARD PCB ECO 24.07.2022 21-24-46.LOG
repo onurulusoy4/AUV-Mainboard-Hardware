@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GND Pin=IC1-90
+Change Component Footprint: Designator=IC1 Old Footprint= New Footprint=DevEBox-STM32H743VIT6

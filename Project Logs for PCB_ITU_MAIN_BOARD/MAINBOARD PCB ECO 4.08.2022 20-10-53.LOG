@@ -1,0 +1,18 @@
+Added Component: Designator=L1(LED)
+Added Component: Designator=L2(LED)
+Added Component: Designator=L3(LED)
+Added Component: Designator=L4(LED)
+Added Pin To Net: NetName=GND Pin=L1-2
+Added Pin To Net: NetName=GND Pin=L2-2
+Added Pin To Net: NetName=GND Pin=L3-2
+Added Pin To Net: NetName=GND Pin=L4-2
+Added Pin To Net: NetName=LED+ Pin=L1-1
+Added Pin To Net: NetName=LED+ Pin=L2-1
+Added Pin To Net: NetName=LED+ Pin=L3-1
+Added Pin To Net: NetName=LED+ Pin=L4-1
+Added Pin To Net: NetName=LED+ Pin=IC1-64
+Added Net: Name=LED+
+Added Member To Class: ClassName=STMH7 Member=Component L1 LED
+Added Member To Class: ClassName=STMH7 Member=Component L2 LED
+Added Member To Class: ClassName=STMH7 Member=Component L3 LED
+Added Member To Class: ClassName=STMH7 Member=Component L4 LED

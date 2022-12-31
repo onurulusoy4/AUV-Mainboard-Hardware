@@ -1,0 +1,39 @@
+Removed Member From Class: ClassName=STMH7 Member=C5
+Removed Member From Class: ClassName=U_RS232 Member=P12
+Removed Member From Class: ClassName=U_RS232 Member=P14
+Removed Member From Class: ClassName=U_HSS Member=P15
+Removed Member From Class: ClassName=U_RS232 Member=P15
+Removed Member From Class: ClassName=U_PWM Member=P20
+Removed Member From Class: ClassName=U_HSS Member=P21
+Removed Member From Class: ClassName=U_I2C Member=P21
+Removed Member From Class: ClassName=U_RS232 Member=P21
+Removed Member From Class: ClassName=U_RS485 Member=P26
+Removed Member From Class: ClassName=U_RS485 Member=P27
+Removed Member From Class: ClassName=U_I2C Member=R3
+Removed Member From Class: ClassName=U_I2C Member=R5
+Removed Member From Class: ClassName=U_CONVERTER Member=R10
+Added Pin To Net: NetName=GND Pin=C11-2
+Added Pin To Net: NetName=+3V3 Pin=IC2-3
+Added Pin To Net: NetName=+3V3 Pin=IC2-45
+Added Pin To Net: NetName=+3V3 Pin=IC2-46
+Added Member To Class: ClassName=U_RS232 Member=Component C3 CAP CER 1UF 25V X7R 0805
+Added Member To Class: ClassName=STMH7 Member=Component C11 4.7 µF
+Added Member To Class: ClassName=U_RS232 Member=Component P1 RS4-7 Chip Power Selection
+Added Member To Class: ClassName=U_RS232 Member=Component P3 RS4-7 Power Selection
+Added Member To Class: ClassName=U_RS232 Member=Component P4 Header 2X2
+Added Member To Class: ClassName=U_RS232 Member=Component P6 WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Added Member To Class: ClassName=U_RS232 Member=Component P7 Header 2X2
+Added Member To Class: ClassName=U_RS232 Member=Component P8 WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Added Member To Class: ClassName=U_HSS Member=Component P9 *CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=U_HSS Member=Component P10 CONN HEADER VERT 3POS 2.5MM
+Added Member To Class: ClassName=U_HSS Member=Component P11 *CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=U_HSS Member=Component P13 *CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=U_PWM Member=Component P16 CONN HEADER VERT 12POS 2.54MM
+Added Member To Class: ClassName=U_I2C Member=Component P17 CONN HEADER SMD R/A 4POS 1.25MM
+Added Member To Class: ClassName=U_RS485 Member=Component P19 WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Added Member To Class: ClassName=U_RS485 Member=Component P22 WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Added Member To Class: ClassName=U_RS485 Member=Component P23 WIRE-TO BOARD HEADER, 2.5MM, 4 C
+Added Member To Class: ClassName=U_I2C Member=Component R7 Dip resistor
+Added Member To Class: ClassName=U_I2C Member=Component R9 Dip resistor
+Added Member To Class: ClassName=U_CONVERTER Member=Component R12 200 Ohm dip
+Added Member To Class: ClassName=U_HSS Member=Component U3 SI1869DH-T1-E3

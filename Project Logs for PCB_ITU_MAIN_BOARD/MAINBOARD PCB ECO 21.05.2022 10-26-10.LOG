@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=Q2 Old Footprint=SOT54E New Footprint=SOT91P240X120-3N
+Change Component Footprint: Designator=Q4 Old Footprint=SOT54E New Footprint=SOT91P240X120-3N
+Change Component Footprint: Designator=Q6 Old Footprint=SOT54E New Footprint=SOT91P240X120-3N
+Change Component Footprint: Designator=Q1 Old Footprint=TO220 New Footprint=DPAK508P1524X483-3N
+Change Component Footprint: Designator=Q3 Old Footprint=TO220 New Footprint=DPAK508P1524X483-3N
+Change Component Footprint: Designator=Q5 Old Footprint=TO220 New Footprint=DPAK508P1524X483-3N
+Added Member To Class: ClassName=U_HSS Member=Component P10 *CONN HEADER VERT 2POS 2.5MM

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=+3.3V Pin=IC1-3
+Removed Pin From Net: NetName=+3.3V Pin=IC1-4
+Added Pin To Net: NetName=+3V3 Pin=IC1-3
+Added Pin To Net: NetName=+3V3 Pin=IC1-4
+Added Member To Class: ClassName=U_POWER Member=Component P27 *CONN HEADER VERT 2POS 2.5MM

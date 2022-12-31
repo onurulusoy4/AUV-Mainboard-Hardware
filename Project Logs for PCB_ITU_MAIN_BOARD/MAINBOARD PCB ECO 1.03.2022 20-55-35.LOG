@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=5V Pin=U7-1
+Added Member To Class: ClassName=U_POWER Member=Component U8 XT-30PW-F
+Added Room: Name=U_RS232
+Added Room: Name=U_RS485

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=P9 NewDesignator=P10
+Change Component Designator: OldDesignator=P10 NewDesignator=P9
+Change Net Name : Old Net Name=NetP9_2 New Net Name=NetP10_2
+Added Member To Class: ClassName=U_HSS Member=Component P10 *CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=U_HSS Member=Component P11 *CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=U_HSS Member=Component P13 *CONN HEADER VERT 2POS 2.5MM

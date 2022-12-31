@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=U8 Old Footprint=XT-30PW-F New Footprint=XT30UPB-M
+Change Component Comment : Designator=U8 Old Comment=XT-30PW-F New Comment=XT30UPB-M
+Added Member To Class: ClassName=U_ADC Member=Component P11 CONN HEADER VERT 12POS 2.54MM
+Added Member To Class: ClassName=U_I2C Member=Component P14 CONN HEADER SMD R/A 4POS 1.25MM
+Added Member To Class: ClassName=U_CONVERTER Member=Component P21 *CONN HEADER VERT 2POS 2.5MM
+Added Member To Class: ClassName=U_RS485 Member=Component U6 MAX485EPA
+Added Member To Class: ClassName=U_POWER Member=Component U9 MT-30

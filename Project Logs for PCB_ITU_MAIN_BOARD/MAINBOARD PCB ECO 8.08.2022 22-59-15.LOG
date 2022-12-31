@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R17
+Change Component Designator: OldDesignator=R? NewDesignator=R18
+Change Component Designator: OldDesignator=R? NewDesignator=R19
+Change Component Designator: OldDesignator=R? NewDesignator=R20
+Added Member To Class: ClassName=STMH7 Member=Component R18 x Ohms
+Added Member To Class: ClassName=STMH7 Member=Component R19 x Ohms
+Added Member To Class: ClassName=STMH7 Member=Component R20 x Ohms
